@@ -1,0 +1,92 @@
+{
+    "level": [
+        {
+            "target-score" : 100000,
+            "enemy-score" : [1000, 6000, 30000],
+            "enemy-interval" : [1,5,10],
+            "enemy-hp" : [1,5,12],
+            "enemy-speed" : [1,1,1],
+            "enhance-interval" : [5, 10],
+            "bomb-interval" : [5, 10]
+        },
+        {
+            "target-score" : 200000,
+            "enemy-score" : [1000, 6000, 30000],
+            "enemy-interval" : [1,4,9],
+            "enemy-hp" : [1,5,12],
+            "enemy-speed" : [1.1, 1.1, 1.1],
+            "enhance-interval" : [5, 10],
+            "bomb-interval" : [5, 10]
+        }
+        ,
+        {
+            "target-score" : 300000,
+            "enemy-score" : [1000, 6000, 30000],
+            "enemy-interval" : [1.8, 3, 8],
+            "enemy-hp" : [1, 5, 12],
+            "enemy-speed" : [1.2, 1.2, 1.2],
+            "enhance-interval" : [5, 10],
+            "bomb-interval" : [5, 10]
+        }
+        ,
+        {
+            "target-score" : 400000,
+            "enemy-score" : [1000, 6000, 30000],
+            "enemy-interval" : [1.6,3,8],
+            "enemy-hp" : [1, 5, 12],
+            "enemy-speed" : [1.3, 1.3, 1.3],
+            "enhance-interval" : [5, 10],
+            "bomb-interval" : [5, 10]
+        }
+        ,
+        {
+            "target-score" : 500000,
+            "enemy-score" : [1000, 6000, 30000],
+            "enemy-interval" : [1.4,2,8],
+            "enemy-hp" : [1, 5, 12],
+            "enemy-speed" : [1.4, 1.4, 1.4],
+            "enhance-interval" : [5, 10],
+            "bomb-interval" : [5, 10]
+        }
+        ,
+        {
+            "target-score" : 600000,
+            "enemy-score" : [1000, 6000, 30000],
+            "enemy-interval" : [1.2,2,8],
+            "enemy-hp" : [1,5,12],
+            "enemy-speed" : [1.5, 1.5, 1.5],
+            "enhance-interval" : [5, 10],
+            "bomb-interval" : [5, 10]
+        }
+        ,
+        {
+            "target-score" : 1000000,
+            "enemy-score" : [1000, 6000, 30000],
+            "enemy-interval" : [1,2,8],
+            "enemy-hp" : [1,5,12],
+            "enemy-speed" : [1.5, 1.5, 1.5],
+            "enhance-interval" : [5, 10],
+            "bomb-interval" : [5, 10]
+        }
+        ,
+        {
+            "target-score" : 2000000,
+            "enemy-score" : [1000, 6000, 30000],
+            "enemy-interval" : [1.2,2,7],
+            "enemy-hp" : [1,5,12],
+            "enemy-speed" : [1.5, 1.5, 1.5],
+            "enhance-interval" : [5, 10],
+            "bomb-interval" : [5, 10]
+        }
+        ,
+        {
+            "target-score" : 90000000,
+            "enemy-score" : [1000, 6000, 30000],
+            "enemy-interval" : [1.2,2,7],
+            "enemy-hp" : [1,5,12],
+            "enemy-speed" : [1.5, 1.5, 1.5],
+            "enhance-interval" : [5, 10],
+            "bomb-interval" : [5, 10]
+        }
+    ]
+}
